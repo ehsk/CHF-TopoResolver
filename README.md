@@ -57,14 +57,21 @@ By default, the Context Hierarchy Fusion (CHF) method is employed to resolve top
 If you found the code useful, please cite the following paper:
 
 ```
-@inproceedings{kamalloo2018,
-  title={A coherent unsupervised model for toponym resolution},
-  author={Ehsan Kamalloo and Davood Rafiei},
-  booktitle={Proceedings of the Web (former WWW) Conference},
-  pages={},
-  year={2018},
-  doi={10.1145/3178876.3186027},
-  url={http://doi.org/10.1145/3178876.3186027},
-  organization={ACM}
+@inproceedings{Kamalloo2018,
+ author = {Kamalloo, Ehsan and Rafiei, Davood},
+ title = {A Coherent Unsupervised Model for Toponym Resolution},
+ booktitle = {Proceedings of the 2018 World Wide Web Conference},
+ series = {WWW '18},
+ year = {2018},
+ isbn = {978-1-4503-5639-8},
+ location = {Lyon, France},
+ pages = {1287--1296},
+ numpages = {10},
+ url = {https://doi.org/10.1145/3178876.3186027},
+ doi = {10.1145/3178876.3186027},
+ acmid = {3186027},
+ publisher = {International World Wide Web Conferences Steering Committee},
+ address = {Republic and Canton of Geneva, Switzerland},
+ keywords = {context-bound hypotheses, geolocation extraction, spatial hierarchies, toponym resolution, unsupervised disambiguation},
 }
 ```
