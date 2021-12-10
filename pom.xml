@@ -12,7 +12,7 @@
         <java.version>1.8</java.version>
         <stanford-nlp.version>3.9.1</stanford-nlp.version>
         <slf4j.version>1.7.25</slf4j.version>
-        <log4j.version>2.9.1</log4j.version>
+        <log4j.version>2.15.0</log4j.version>
         <sqlite-jdbc.version>3.21.0.1</sqlite-jdbc.version>
         <weka.version>3.8.2</weka.version>
         <jedis.version>2.9.0</jedis.version>
